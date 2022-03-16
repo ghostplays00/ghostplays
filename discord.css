@@ -81,7 +81,7 @@
 }
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,		/* home/acronym												*/
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-	background-color: rgb(var(--accentcolor));
+	background-color: rgb(var(--accentcolor));color:transparent;
 }
 .wrapper-3kah-n rect[fill] {
 	fill: var(--background-primary);
