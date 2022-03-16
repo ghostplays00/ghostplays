@@ -77,7 +77,8 @@
 }
 
 .wrapper-3kah-n .childWrapper-1j_1ub{
-        background:var(--home-icon) center/cover no-repeat scroll;color:transparent}.tutorialContainer-1pL9QS 
+        background:var(--home-icon) center/cover no-repeat scroll;color:transparent;
+}
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,		/* home/acronym												*/
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
 	background-color: rgb(var(--accentcolor));
